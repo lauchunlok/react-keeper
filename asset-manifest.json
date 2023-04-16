@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-keeper/static/css/main.66231167.css",
+    "main.js": "/react-keeper/static/js/main.da6dff9f.js",
+    "index.html": "/react-keeper/index.html",
+    "main.66231167.css.map": "/react-keeper/static/css/main.66231167.css.map",
+    "main.da6dff9f.js.map": "/react-keeper/static/js/main.da6dff9f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66231167.css",
+    "static/js/main.da6dff9f.js"
+  ]
+}
